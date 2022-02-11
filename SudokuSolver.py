@@ -1,5 +1,3 @@
-#import time
-#initial_time = time.time()
 
 sudoku =    [[0, 0, 0, 2, 6, 0, 7, 0, 1], 
             [6, 8, 0, 0, 7, 0, 0, 9, 0], 
